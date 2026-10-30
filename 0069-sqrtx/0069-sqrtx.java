@@ -7,10 +7,10 @@ class Solution {
              return (int)mid;
             }
             else if(mid*mid > x){
-                high = (int)mid - 1;
+                high = mid - 1;
             }
             else{
-                low = (int)mid + 1;
+                low =mid + 1;
             }    
         }
         return (int)high; 
