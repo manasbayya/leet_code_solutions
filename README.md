@@ -5,6 +5,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/manasbayya/leet_code_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [2235-add-two-integers](https://github.com/manasbayya/leet_code_solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/manasbayya/leet_code_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasbayya/leet_code_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0367-valid-perfect-square](https://github.com/manasbayya/leet_code_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/manasbayya/leet_code_solutions/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
