@@ -25,10 +25,12 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manasbayya/leet_code_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasbayya/leet_code_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/manasbayya/leet_code_solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0704-binary-search](https://github.com/manasbayya/leet_code_solutions/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasbayya/leet_code_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/manasbayya/leet_code_solutions/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
