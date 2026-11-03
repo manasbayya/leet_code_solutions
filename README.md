@@ -37,6 +37,7 @@
 | [0069-sqrtx](https://github.com/manasbayya/leet_code_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasbayya/leet_code_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/manasbayya/leet_code_solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/manasbayya/leet_code_solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/manasbayya/leet_code_solutions/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -62,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/manasbayya/leet_code_solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
