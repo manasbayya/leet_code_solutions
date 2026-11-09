@@ -9,6 +9,7 @@
 | [0367-valid-perfect-square](https://github.com/manasbayya/leet_code_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manasbayya/leet_code_solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/manasbayya/leet_code_solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/manasbayya/leet_code_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
