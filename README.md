@@ -36,6 +36,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasbayya/leet_code_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/manasbayya/leet_code_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/manasbayya/leet_code_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/manasbayya/leet_code_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
