@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/manasbayya/leet_code_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/manasbayya/leet_code_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manasbayya/leet_code_solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/manasbayya/leet_code_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/manasbayya/leet_code_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/manasbayya/leet_code_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Two Pointers
@@ -35,6 +36,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manasbayya/leet_code_solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasbayya/leet_code_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/manasbayya/leet_code_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/manasbayya/leet_code_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/manasbayya/leet_code_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -53,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/manasbayya/leet_code_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/manasbayya/leet_code_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasbayya/leet_code_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/manasbayya/leet_code_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasbayya/leet_code_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/manasbayya/leet_code_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
