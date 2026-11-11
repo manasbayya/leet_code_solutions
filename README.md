@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/manasbayya/leet_code_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/manasbayya/leet_code_solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manasbayya/leet_code_solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/manasbayya/leet_code_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/manasbayya/leet_code_solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -23,6 +24,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/manasbayya/leet_code_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/manasbayya/leet_code_solutions/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/manasbayya/leet_code_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Interactive
