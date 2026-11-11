@@ -5,6 +5,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/manasbayya/leet_code_solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/manasbayya/leet_code_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/manasbayya/leet_code_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
