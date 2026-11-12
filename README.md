@@ -27,6 +27,7 @@
 | [0242-valid-anagram](https://github.com/manasbayya/leet_code_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/manasbayya/leet_code_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/manasbayya/leet_code_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manasbayya/leet_code_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Array
 | Problem Name | Difficulty |
