@@ -27,6 +27,7 @@
 | [0242-valid-anagram](https://github.com/manasbayya/leet_code_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/manasbayya/leet_code_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manasbayya/leet_code_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [1672-richest-customer-wealth](https://github.com/manasbayya/leet_code_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/manasbayya/leet_code_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manasbayya/leet_code_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@
 | [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/manasbayya/leet_code_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manasbayya/leet_code_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
