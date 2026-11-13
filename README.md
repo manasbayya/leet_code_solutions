@@ -14,6 +14,7 @@
 | [1512-number-of-good-pairs](https://github.com/manasbayya/leet_code_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/manasbayya/leet_code_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/manasbayya/leet_code_solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/manasbayya/leet_code_solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/manasbayya/leet_code_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/manasbayya/leet_code_solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/manasbayya/leet_code_solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/manasbayya/leet_code_solutions/tree/main/0292-nim-game/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/manasbayya/leet_code_solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/manasbayya/leet_code_solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/manasbayya/leet_code_solutions/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
