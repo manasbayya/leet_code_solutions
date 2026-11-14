@@ -34,6 +34,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/manasbayya/leet_code_solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manasbayya/leet_code_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/manasbayya/leet_code_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manasbayya/leet_code_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -62,6 +63,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/manasbayya/leet_code_solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/manasbayya/leet_code_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/manasbayya/leet_code_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasbayya/leet_code_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
