@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/manasbayya/leet_code_solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/manasbayya/leet_code_solutions/tree/main/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/manasbayya/leet_code_solutions/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/manasbayya/leet_code_solutions/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/manasbayya/leet_code_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -90,6 +91,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/manasbayya/leet_code_solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/manasbayya/leet_code_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/manasbayya/leet_code_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/manasbayya/leet_code_solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -110,6 +112,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/manasbayya/leet_code_solutions/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/manasbayya/leet_code_solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/manasbayya/leet_code_solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Brainteaser
